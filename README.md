@@ -37,7 +37,8 @@ year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="68--85",
-isbn="978-3-031-18872-5"
+isbn="978-3-031-18872-5",
+doi="https://doi.org/10.1007/978-3-031-18872-5_5"
 }
 
 2. @InProceedings{10.1007/978-3-031-18872-5_1,
@@ -53,7 +54,8 @@ year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="3--22",
-isbn="978-3-031-18872-5"
+isbn="978-3-031-18872-5",
+doi="https://doi.org/10.1007/978-3-031-18872-5_1"
 }
 
 3. Original PlantVillage Dataset: 
