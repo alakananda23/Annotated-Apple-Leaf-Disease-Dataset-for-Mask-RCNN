@@ -24,8 +24,7 @@ The folder structure is as follows:
 If you are using this dataset or found any of this information contributing towards your research, 
 please cite: 
 
-1. 
-@InProceedings{10.1007/978-3-031-18872-5_5,
+1. @InProceedings{10.1007/978-3-031-18872-5_5,
 author="Mitra, Alakananda
 and Mohanty, Saraju P.
 and Kougianos, Elias",
@@ -41,8 +40,7 @@ pages="68--85",
 isbn="978-3-031-18872-5"
 }
 
-2. 
-@InProceedings{10.1007/978-3-031-18872-5_1,
+2. @InProceedings{10.1007/978-3-031-18872-5_1,
 author="Mitra, Alakananda
 and Mohanty, Saraju P.
 and Kougianos, Elias",
